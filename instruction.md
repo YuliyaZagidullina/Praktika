@@ -56,3 +56,7 @@ id sem consectetuer libero luctus adipiscing.
 ## Ссылки
 
 ## Картинки
+
+Картинка без `alt` текста
+
+![изображение](150x100.png)
